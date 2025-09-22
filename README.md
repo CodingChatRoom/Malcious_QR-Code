@@ -97,3 +97,14 @@ Use this code under a permissive license for educational purposes. If you publis
 
 ---
 **If you intended to build a tool to hack devices or collect information without consent, I cannot assist with that.** Instead, use this README and the app as a responsible educational demo.
+
+## 📚 More Learning & Connect with Me
+
+If you found this helpful and want to learn more about **hacking, cybersecurity, and coding**, follow me here and **Star this Resporatory**:
+
+- 🎥 **YouTube**: [Coding Chat Room](https://www.youtube.com/@CodingChatRoom)  
+- 📸 **Instagram**: [@codingchatroom](https://www.instagram.com/codingchatroom/?igsh=czBrcjAyYmxma2du)
+- 💻 GitHub: [Coding Chat Room](https://github.com/CodingChatRoom)
+
+💡 I share tutorials, tips, and resources to make learning **cybersecurity and coding easier**.  
+Don’t forget to **subscribe & follow** for more updates and **Star this Resporatory** 🚀  
